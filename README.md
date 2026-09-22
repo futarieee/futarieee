@@ -12,10 +12,10 @@ This github was created to document my growth process.
 - React
 
 ## ✨ What I'm Working On
-I'm currently pursuing a Front-End Developer Certificate from Scrimba.
+I'm currently learning how to code (WML :D)
 
 ## ✨ A Little About Me
-I enjoy looking through meme, and I love reading & watching actions anime. My current favorite is Solo Levelling, Kaiju no.8, Nano Machine, Killer Peter and more... My favorite books are Man Search for Meaning by Viktor E. Frankl, Meditations by Marcus Aurelius & Time of Your Life by Cecelia Ahern.
+I enjoy looking through meme, and I love reading & watching actions anime. My current favorite is Solo Levelling, Kaiju no.8, Absolute Regression, Killer Peter and more... My favorite books are Man Search for Meaning by Viktor E. Frankl, Meditations by Marcus Aurelius & Time of Your Life by Cecelia Ahern.
 
 <!--
 **feli-fel/feli-fel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
