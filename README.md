@@ -1,7 +1,7 @@
 ## Hi, I'm Felika 👋
 
 ## 🙋‍♀️About Me
-I'm a UI/UX Designer who is currently learning Front-End Development. 
+I'm a UI/UX Designer who is currently learning Front-end Development. 
 I have a vision to be able to build immersive interactive website.
 This github was created to document my growth process. 
 
@@ -10,9 +10,6 @@ This github was created to document my growth process.
 - 3D
 - HTML CSS, Javascript
 - React
-
-## ✨ What I'm Working On
-I'm currently learning how to code (WML :D)
 
 ## ✨ A Little About Me
 I enjoy looking through meme, and I love reading & watching actions anime. My current favorite is Solo Levelling, Kaiju no.8, Chainsaw Man, Absolute Regression, Killer Peter and more... My favorite books are Man Search for Meaning by Viktor E. Frankl, Meditations by Marcus Aurelius & Time of Your Life by Cecelia Ahern.
