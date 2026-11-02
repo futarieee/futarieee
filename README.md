@@ -1,9 +1,9 @@
 ## Hi, I'm Felika 👋
 
 ## 🙋‍♀️About Me
-I'm a UI/UX Designer who is currently learning Front-end Development. 
+I'm a UI/UX Designer who is currently learning Code, primarily aiming to understand Front-End & Full-Stack.
 I have a vision to be able to build immersive interactive website.
-This github was created to document my growth process. 
+This github was created to document my growth process & as a place for trial & error. 
 
 ## ✨ Skills Stack
 - UI/UX Design
